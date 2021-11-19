@@ -34,7 +34,7 @@ nnoremap gj j
 
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-""" Head: Indent
+""" Head: Clipboard
 ""
 
 " ## Copy To Clipboard
@@ -44,4 +44,8 @@ vnoremap <S-Tab> "+y
 "vmap <S-Tab> "+y
 "vmap <C-c> "+y
 "vnoremap <RightMouse> "+y
+
+""
+""" Tail: Clipboard
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
